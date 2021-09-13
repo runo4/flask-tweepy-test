@@ -1,0 +1,6 @@
+CONSUMER_KEY = "mzmD0ysYfetxzoFpsUw1xrZwo"
+CONSUMER_SECRET = "5AVnutkUI78LgmabeQWp1Rbq7nEm3hUwZxWnvMw3Pxh4FCJ6wk"
+ACCESS_TOKEN = "135845271-3fl3n3Y4ZYa9hrQyCD7w8XYGL6AmxFhgDaRRiegZ"
+ACCESS_TOKEN_SECRET = "mBz4C0yZlieLzkTAkZ7GZJcWVP61jrh6dJIkAniuv0jCX"
+
+# oauth_token=oawCEAAAAAABKKZbAAABeYeQdqQ&oauth_verifier=bxJw8Nzy4OkBKzGfSFvhBkm4lOykyScP
